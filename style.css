@@ -1,0 +1,18 @@
+body{
+    width: calc(100%-100px);
+    height: 100%;
+    background-color: cadetblue;
+}
+.container{
+    text-align: center;
+    margin: 25%;
+    border: 10px solid burlywood;
+}
+.joke{
+    color: antiquewhite;
+}
+.demo1{
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
